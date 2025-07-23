@@ -49,7 +49,7 @@
 <br/>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vickie25&layout=compact&theme=tokyonight)
 <br/>
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vickie25&theme=tokyonight)
+[![GitHub Streak](https://streak-stats.demolab.com?user=vickie25&theme=tokyonight)](https://git.io/streak-stats)
 
 ---
 
