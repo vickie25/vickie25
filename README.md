@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning **Machine Learning**
 - 🛠 I’m working on **My school projects**
 - 🤝 I’m looking to collaborate on **Open Source Projects**
-- 🌐 All of my projects are available at: (https://victor-portfolio-delta.vercel.app/)  https://github.com/vickie25
+- 🌐 All of my projects are available at: (https://portfolio-vick.vercel.app/)  https://github.com/vickie25
 - 🧠 Ask me about: **JavaScript, React**
 - 📫 Reach me via: **nyandorovictor3900@gmail.com**
 
