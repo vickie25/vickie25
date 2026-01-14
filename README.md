@@ -178,17 +178,28 @@
 
 <br clear="both">
 
-<h3 align="center">🔥   My Stats :</h3>
 
-###
 
-<br clear="both">
+<h3 align="center">🔥 My Stats   :</h3>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vickie25&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="250" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vickie25&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=vickie25&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=vickie25&show_icons=true&count_private=true&theme=dracula"
+    height="170"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=vickie25&layout=compact&theme=dracula"
+    height="170"
+  />
 </div>
+
+<div align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=vickie25&theme=dracula"
+    height="170"
+  />
+</div>
+
 
 ###
 
