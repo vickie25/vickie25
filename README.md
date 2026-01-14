@@ -42,7 +42,7 @@
 
 <h3 align="left">👩‍💻  About Me <br>Hi 👋, I’m Victor Nyandoro — a Full-Stack Software Developer <br><br>I have 4+ years of experience building, refactoring, and scaling web applications and RESTful APIs. I specialize in turning prototype-level systems into secure, production-ready solutions, particularly in regulated domains like healthcare and fintech.<br><br>My core stack includes Python (Django), Node.js, React, and TypeScript, with strong experience in PostgreSQL, MongoDB, and cloud-native tooling. I care deeply about architectural integrity, performance optimization, and data security, and I enjoy working on systems where reliability actually matters.<br><br>I’ve led refactoring efforts, designed complex database schemas, implemented RBAC and secure APIs, and optimized systems to significantly reduce latency and improve user experience. I’m equally comfortable collaborating in agile, cross-functional teams as I am working independently on backend-heavy systems.<br><br>
 ### 🛠 Tech I Work With<br>- **Frontend:** React, Next.js, Tailwind CSS, Shadcn UI  <br>- **Backend:** Node.js, Django, REST APIs, Microservices  <br>- **Databases:** PostgreSQL, MongoDB, MySQL, Redis  <br>- **DevOps & Cloud:** Docker, CI/CD, AWS, Azure  <br><br>
-### 🧠 Engineering Philosophy<br>- Security-first mindset  <br>- Clean, maintainable, production-grade code  <br>- Continuous improvement through testing and automation  <br><br>- 🔭 I’m working on a React native mobile app roject <br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...<br><br>📫 Reach me:  <br>- Portfolio: https://portfolio-vick.vercel.app/<br>- LinkedIn: https://www.linkedin.com/in/victor-nyandoro-a46671232</h3>
+### 🧠 Engineering Philosophy<br>- Security-first mindset  <br>- Clean, maintainable, production-grade code  <br>- Continuous improvement through testing and automation  <br><br>- 🔭 I’m working on a React native mobile app project called Jibuks <br>- 📚 I'm currently learning golang<br>- ⚡ In my free time  i meditate <br><br>📫 Reach me:  <br>- Portfolio: https://portfolio-vick.vercel.app/<br>- LinkedIn: https://www.linkedin.com/in/victor-nyandoro-a46671232</h3>
 
 ###
 
@@ -188,6 +188,29 @@
   <img src="https://github-readme-stats.vercel.app/api?username=vickie25&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="250" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vickie25&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=vickie25&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=vickie25.vickie25&"  />
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/vickie25/vickie25/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vickie25&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vickie25&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
 </div>
 
 ###
