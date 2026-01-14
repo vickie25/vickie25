@@ -182,17 +182,7 @@
 
 <h3 align="center">🔥 My Stats   :</h3>
 
-<div align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=vickie25&show_icons=true&count_private=true&theme=dracula"
-    height="170"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=vickie25&layout=compact&theme=dracula"
-    height="170"
-  />
-</div>
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vickie25)](https://github.com/vickie25/github-readme-stats)
 <div align="center">
   <img
     src="https://streak-stats.demolab.com?user=vickie25&theme=dracula"
