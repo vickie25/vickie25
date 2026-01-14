@@ -40,8 +40,34 @@
 
 <br clear="both">
 
-<h3 align="left">👩‍💻  About Me <br>Hi 👋, I’m Victor Nyandoro — a Full-Stack Software Developer <br><br>I have 4+ years of experience building, refactoring, and scaling web applications and RESTful APIs. I specialize in turning prototype-level systems into secure, production-ready solutions, particularly in regulated domains like healthcare and fintech.<br><br>My core stack includes Python (Django), Node.js, React, and TypeScript, with strong experience in PostgreSQL, MongoDB, and cloud-native tooling. I care deeply about architectural integrity, performance optimization, and data security, and I enjoy working on systems where reliability actually matters.<br><br>I’ve led refactoring efforts, designed complex database schemas, implemented RBAC and secure APIs, and optimized systems to significantly reduce latency and improve user experience. I’m equally comfortable collaborating in agile, cross-functional teams as I am working independently on backend-heavy systems.<br><br>
-### 🛠 Tech I Work With<br>- **Frontend:** React, Next.js, Tailwind CSS, Shadcn UI  <br>- **Backend:** Node.js, Django, REST APIs, Microservices  <br>- **Databases:** PostgreSQL, MongoDB, MySQL, Redis  <br>- **DevOps & Cloud:** Docker, CI/CD, AWS, Azure  <br><br>
+<h3 align="left">👩‍💻  About Me <br>Hi 👋, I’m Victor Nyandoro — a Full-Stack Software Developer with 4+ years of experience    
+  
+  <br># 💼 Professional Experience
+
+### 🏢 **Full Stack Developer**
+**APBC Africa** | *Nairobi, Kenya*  
+*Jan 2023 – Present*
+
+*   **System Refactoring & Feature Development:** Led the refinement and operationalization of existing web applications using **React, JavaScript, and Node.js**, improving system reliability and maintainability.
+*   **Healthcare & Fintech Compliance:** Contributed to the development and quality assurance of **Jibuks**, a mobile accounting application, ensuring accuracy in invoicing, expense tracking, and financial reporting workflows.
+*   **Database Engineering:** Designed and maintained complex schemas using **PostgreSQL and MongoDB**, supporting scalable data handling across multiple modules.
+*   **Performance Optimization:** Reduced data retrieval and API response times by implementing **Redis caching**, efficient indexing, and optimized SQL queries.
+*   **UI/UX Development:** Built responsive, mobile-first user interfaces using **React, Tailwind CSS, Next.js, and Shadcn UI**, improving accessibility and user engagement.
+*   **DevOps & CI/CD:** Maintained code quality through Git workflows, code reviews, and contributed to **Docker-based CI/CD pipelines** for consistent deployments.
+
+---
+
+### 🏢 **Junior Web Developer Intern**
+**Code Edu Tech** | *Remote*  
+*May 2021 – Dec 2022*
+
+*   **Full-Stack Development:** Developed and maintained features for an online course platform serving **1000+ students**, ensuring seamless content delivery.
+*   **Backend API Development:** Built and secured **RESTful APIs** for user authentication, course enrollment, and payment processing.
+*   **Database Management:** Implemented and optimized database solutions using **MySQL, PostgreSQL, and MongoDB** for efficient querying and indexing.
+*   **Performance Improvements:** Achieved a **35% reduction in API latency** through backend optimizations and Redis caching strategies.
+*   **Mobile-First UI:** Implemented responsive UI components using **React and Tailwind CSS**, improving mobile usability and interaction rates.
+*   **Testing & QA:** Designed and executed test cases, identified bugs, and verified fixes to improve application stability and user experience.
+<br>
 ### 🧠 Engineering Philosophy<br>- Security-first mindset  <br>- Clean, maintainable, production-grade code  <br>- Continuous improvement through testing and automation  <br><br>- 🔭 I’m working on a React native mobile app project called Jibuks <br>- 📚 I'm currently learning golang<br>- ⚡ In my free time  i meditate <br><br>📫 Reach me:  <br>- Portfolio: https://portfolio-vick.vercel.app/<br>- LinkedIn: https://www.linkedin.com/in/victor-nyandoro-a46671232</h3>
 
 ###
@@ -182,7 +208,7 @@
 
 <h3 align="center">🔥 My Stats   :</h3>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vickie25)](https://github.com/vickie25/github-readme-stats)
+[](https://github.com/vickie25/github-readme-stats)
 <div align="center">
   <img
     src="https://streak-stats.demolab.com?user=vickie25&theme=dracula"
